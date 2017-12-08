@@ -1,0 +1,11 @@
+El ciclo de vida incremental
+Desarrollar por partes el producto software, para después integrarlas a medida que se completan. 
+Un ejemplo de un desarrollo puramente incremental puede ser la agregación de módulos en diferentes fases. 
+El agregar cada vez más funcionalidad al sistema.
+
+
+El ciclo de vida iterativo
+En cada ciclo, iteración, se revisa y mejora el producto. 
+Un ejemplo de desarrollo iterativo es aquel basado en refactorizaciones (te dejo el post de introducción a la refactorización),
+en el que cada ciclo mejora más la calidad del producto. 
+Es importante señalar que este ciclo no implica añadir funcionalidades en el producto, pero si revisión y mejora.

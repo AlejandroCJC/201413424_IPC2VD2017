@@ -1,0 +1,22 @@
+*Comunicación
+	Este es el primer paso donde l usuario inicia la petición de un producto software determinado
+*Recolección de solicitudes
+	A partir de este paso y en adelante el equipo de desarrollo software trabaja para tirar adelante el proyecto.
+*Estudio de viabilidad
+	Después de la recolección de requisitos, el equipo idea un plan para procesar el software.
+*Análisis del sistema
+	En este pas los desarrolladores trazan su plan e intentan crear el mejor y más conveniente modelo de software para el proyecto.
+*Diseño de Software
+	El siguiente paso es diseñar el producto software con la ayuda de toda la información recogida sobre requisitos y análisis.
+*Codificación
+	Esta fase también se puede denominar 'fase de programación'.
+*Pruebas
+	Se estima que el 50% de todos los procesos de desarrollo de software deberían ser evaluados.
+*Integración
+	El Software puede necesitar estar integrado con las bibliotecas, Bases de datos o con otro u otros programas.
+*Implementación
+	Aquí se instala el software en máquinas de clientes.
+*Mantenimiento y Funcionamiento
+	Esta fase confirma el funcionamiento del software en términos de más eficiencia y menos errores.
+*Disposición
+	Con el paso del tiempo, puede que el software falle en su ejecución. Puede que se vuelva totalmente obsoleto o que necesite actualizaciones.
