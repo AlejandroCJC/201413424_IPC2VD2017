@@ -1,0 +1,7 @@
+¿Qué entiende como "commit"?
+	Identifica los cambios del lo que se subirá al repositorio
+¿Qué entiende como "merge"?
+	Se utiliza para Fusionar una o más ramas dentro de la rama que tenemos actica
+¿Cuál es la diferencia entre "Pull" y "Push"
+	Que push: Sube los cambios
+	Pull: Trae de nuevo los Cambios y los deja en la rama
